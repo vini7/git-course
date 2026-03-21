@@ -1,1 +1,1 @@
-# Git Course by Vini - Pro Edition
+# Git Course by Vini - Pro Developer Edition
