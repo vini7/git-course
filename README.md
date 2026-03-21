@@ -1,1 +1,1 @@
-# My git Course
+# Git Course by Vini - Developer Edition
